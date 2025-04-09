@@ -1,8 +1,12 @@
+import Link from '../src/components/Link'
+
 export default function HomePage() {
     return (
         <div>
             <h1>Página de perguntas</h1>
-            <a href="/">Ir para home</a>
+            <Link href="/">
+                Ir para página home
+            </Link>
         </div>
     )
 }
