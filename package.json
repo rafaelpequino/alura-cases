@@ -12,7 +12,6 @@
   },
   "license": "ISC",
   "author": "Rafael Pequino",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
